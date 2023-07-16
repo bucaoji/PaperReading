@@ -8,7 +8,7 @@ To learn a technology in architecture level, one of the best way is to read the 
 - 2003 Google File System [Ghemawat, Sanjay, Howard Gobioff, and Shun-Tak Leung. "The Google file system." Proceedings of the nineteenth ACM symposium on Operating systems principles. 2003.](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 - 2004 MapReduce: Simplified Data Processing on Large Clusters [Dean, Jeffrey, and Sanjay Ghemawat. "MapReduce: simplified data processing on large clusters." Communications of the ACM 51.1 (2008): 107-113.](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 - 2010 The Hadoop Distributed File System [Shvachko, Konstantin, et al. "The hadoop distributed file system." 2010 IEEE 26th symposium on mass storage systems and technologies (MSST). Ieee, 2010.](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
-- 2013 [Vavilapalli, Vinod Kumar, et al. "Apache hadoop yarn: Yet another resource negotiator." Proceedings of the 4th annual Symposium on Cloud Computing. 2013.](http://www1.ece.neu.edu/~ningfang/SimPaper/a5-vavilapalli.pdf)
+- 2013 YARN [Vavilapalli, Vinod Kumar, et al. "Apache hadoop yarn: Yet another resource negotiator." Proceedings of the 4th annual Symposium on Cloud Computing. 2013.](http://www1.ece.neu.edu/~ningfang/SimPaper/a5-vavilapalli.pdf)
 
 
 ### Spark
