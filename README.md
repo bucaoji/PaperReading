@@ -20,6 +20,9 @@ To learn a technology in architecture level, one of the best way is to read the 
 ### Presto
 - 2019 Presto [Sethi, Raghav, et al. "Presto: SQL on everything." 2019 IEEE 35th International Conference on Data Engineering (ICDE). IEEE, 2019.](https://trino.io/Presto_SQL_on_Everything.pdf)
 
+### Impala
+- 2015 Impala [Bittorf, M. K. A. B. V., et al. "Impala: A modern, open-source SQL engine for Hadoop." Proceedings of the 7th biennial conference on innovative data systems research. 2015.](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf)
+
 ### Kubernets
 - 2015 Borg [Verma, Abhishek, et al. "Large-scale cluster management at Google with Borg." Proceedings of the tenth european conference on computer systems. 2015.](https://pages.cs.wisc.edu/~shivaram/cs744-readings/borg.pdf)
 - 2016 Borg, Omega, and Kubernetes [Burns, Brendan, et al. "Borg, omega, and kubernetes." Communications of the ACM 59.5 (2016): 50-57.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44843.pdf)
