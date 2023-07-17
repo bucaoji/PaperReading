@@ -68,3 +68,9 @@ To learn a technology in architecture level, one of the best way is to read the 
 
 ### Firestore
 - 2023 Firestore [Kesavan, Ram, et al. "Firestore: The NoSQL Serverless Database for the Application Developer." (2023).](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/d647cb73166040a82b7e5569574451be517f5c59.pdf)
+
+### Cassandra
+- 2009 [Lakshman, Avinash, and Prashant Malik. "Cassandra: a decentralized structured storage system." ACM SIGOPS operating systems review 44.2 (2010): 35-40.](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R212_2014_2015/papers/lakshman_ladis_2009.pdf)
+
+### Bigtable
+- 2008 Bigtable [Chang, Fay, et al. "Bigtable: A distributed storage system for structured data." ACM Transactions on Computer Systems (TOCS) 26.2 (2008): 1-26.](https://www.usenix.org/legacy/event/osdi06/tech/chang/chang.pdf)
