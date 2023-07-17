@@ -74,3 +74,6 @@ To learn a technology in architecture level, one of the best way is to read the 
 
 ### Bigtable
 - 2008 Bigtable [Chang, Fay, et al. "Bigtable: A distributed storage system for structured data." ACM Transactions on Computer Systems (TOCS) 26.2 (2008): 1-26.](https://www.usenix.org/legacy/event/osdi06/tech/chang/chang.pdf)
+
+### OceanBase
+- 2022 Ocean Base [Yang, Zhenkun, et al. "OceanBase: a 707 million tpmC distributed relational database system." Proceedings of the VLDB Endowment 15.12 (2022): 3385-3397.](https://www.vldb.org/pvldb/vol15/p3385-xu.pdf)
